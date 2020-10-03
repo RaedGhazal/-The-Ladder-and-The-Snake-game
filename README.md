@@ -6,5 +6,9 @@ The game apk : [APK](https://mega.nz/file/6j5jBKYZ#fONZ6-lXgCKl7lYDMX-IGCcZ5zWlj
 
 Android studio - java
 
-screenshots : 
-<img src="screenshots/login.jpg" width="150"> <img src="screenshots/register.jpg" width="150"> <img src="screenshots/game.jpg" width="150"> <img src="screenshots/win.jpg" width="150">
+#### screenshots :  
+
+<img src="screenshots/game.jpg" width="450">  
+
+<img src="screenshots/login.jpg" width="150"> <img src="screenshots/register.jpg" width="150"> <img src="screenshots/win.jpg" width="150">
+
