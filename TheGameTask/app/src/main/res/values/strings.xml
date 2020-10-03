@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TheGameTask</string>
+    <string name="mainTitle">THE GAME</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="register_message">Don\'t have an Account? Register now</string>
+    <string name="login_message">Already have an Account? Login here</string>
+    <string name="showHidePassword">showHidePassword</string>
+    <string name="register">Register</string>
+    <string name="fullname">Full Name</string>
+    <string name="helloMessage">Hello, %1$s</string>
+    <string name="newGame">New Game</string>
+    <string name="totalDiceRolls">TOTAL DICE ROLLS</string>
+    <string name="saveGame">Save Game</string>
+    <string name="rollDice">Roll Dice</string>
+    <string name="currentTurn">Current Turn</string>
+    <string name="currentPlayerNumber">Player %1$d</string>
+    <string name="player_place_holder1">player_place_holder1</string>
+    <string name="player_place_holder2">player_place_holder2</string>
+    <string name="backHome">Back Home</string>
+    <string name="winningMessage">Great\nPlayer %1$d Won</string>
+    <string name="load">Load</string>
+    <string name="savedGamesMessage">Game Save At %1$s</string>
+    <string name="askSaveGame">Save Game ?</string>
+    <string name="messageSaveGame">Do you want to save game before\n exitting it?</string>
+    <string name="save">Save</string>
+    <string name="discard">Discard</string>
+    <string name="loadSavedGames">Load Saved Games</string>
+    <string name="logout">logout</string>
+    <string name="winningStar">Winning Star</string>
+    <string name="snakeOrLadder">Snake Or Ladder</string>
+</resources>
